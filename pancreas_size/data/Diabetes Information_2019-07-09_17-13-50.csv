@@ -1,0 +1,552 @@
+nPODCaseID,DataSets/Demographics/DonorType,diabetes_Duration_yrs,oppc_C_peptideR,oppc_HbA1cR,diabetes_history,Insulin_depd,Insulin_meds_taken
+100,Virus infected cell line,,,,,,
+1000,Pending,,5.3,5.6000,No,No,None
+101,Virus infected cell line,,,,,,
+102,CMA,,,,,,
+103,Virus infected cell line,,,,,,
+104,,,,,,,
+1338,Fulminant,0.0100,,7.9000,,,
+3005,Transplant,20.0000,0.05,11.1000,"Yes, >10 years","Yes, >10 years","Insulin pump therapy (discontinued in 2008), Lantus 18 units per day, Humalog 1 unit/10g carbs and 1 unit/40 mg/dL when glucose > 100."
+5000,T1D,2.0000,0.06,10.3000,"Yes, < 5 years","Yes, < 5 years","Insulin via pump, Novalog"
+503,Autoab Pos,,,,,,
+6001,No diabetes,,1.58,,No,,None
+6002,Autoab Pos,,,,No,,None
+6003,No diabetes,,,,No,,None
+6004,No diabetes,,,,,,None
+6005,No diabetes,,,,No,,None
+6006,Other-No Diabetes,,,,,,
+6007,No diabetes,,,,No,,None
+6008,No diabetes,,,,No,,None
+6009,No diabetes,,11.32,,No,,
+6010,No diabetes,,,,No,,None
+6011,No diabetes,,,,No,,None
+6012,No diabetes,,2.97,,No,,None
+6013,No diabetes,,2.8,,No,,None
+6014,No diabetes,,,,No,,None
+6015,No diabetes,,1.99,,No,,None
+6016,No diabetes,,,,No,,None
+6017,No diabetes,,9.89,,No,,None
+6018,Other-No Diabetes,,,,,,
+6019,No diabetes,,0.47,5.6000,No,,None
+6020,No diabetes,,2.82,,No,,None
+6021,No diabetes,,22.92,,No,,None
+6022,No diabetes,,4.99,,No,,No
+6023,Autoab Pos,,,,No,,No
+6024,No diabetes,,3.52,,No,,
+6025,T1D,19.0000,Less than .05,,"Yes, >10 Years",,19 yrs
+6026,T1D,9.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Humalog, Lantus Opticlik"
+6027,Autoab Pos,,,,No,,
+6028,T2D,17.0000,22.4,,"Yes, >10 Years","Yes, >10 Years",Levemir flexpen
+6029,No diabetes,,,,"Yes, Duration Unkn",No,
+6030,No diabetes,,2.54,,No,,
+6031,T1D,35.0000,Less than .05,,"Yes, >10 years","Yes, >10 years","Insulin injections, 35 years"
+6032,T1D,,Less than .05,,"Yes, 6-10 Years","Yes, >10 Years",
+6033,Monogenic Diabetes,28.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Oral and pump (pump started 10 yrs ago)
+6034,No diabetes,,3.15,,No,,No
+6035,T1D,28.0000,Less than .05,,"Yes, >10 Years",No,"Yes, Humilin N"
+6036,T1D,34.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",since age 15
+6037,T2D,50.0000,Less than .05,,"Yes, >10 Years","Yes, 0-5 Years","Insulin 4x a day for 4yrs (injected) before that, oral medication used"
+6038,T1D,20.0000,0.2,,"Yes, >10 Years","Yes, >10 Years",Humulin insulin 70/30
+6039,T1D,12.0000,Less than .05,,"Yes, 6-10 Years","Yes, >10 Years",Yes
+6040,T1D,20.0000,Less than .05,7.3000,"Yes, >10 Years","Yes, >10 Years",Humalog Insulin Pump
+6041,T1D,23.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Yes, 23 yrs, Novalin, Lantes,"
+6042,T1D Medalist,59.0000,Less than .05,,"Yes, >10 Years",,
+6043,Other-Diabetes,,0.1,13.0000,No,,
+6044,Autoab Pos,,13.55,,No,,
+6045,T1D,8.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years","Yes, 9 yrs"
+6046,T1D,8.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years","Novolog, Lantus,"
+6047,No diabetes,,0.65,5.5000,No,,No
+6048,No diabetes,,17.91,,No,,No
+6049,T1D,10.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years",Lantis 28 units q HS / Humalog 1 units/10 carbs
+6050,T1D Medalist,,,,,,
+6051,T1D,13.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",13 yrs of Humalog and Lantus dose varies as needed per BS
+6052,T1D,1.0000,0.18,,"Yes, 0-5 Years","Yes, 0-5 Years","Humalog (ratio carbs/10), Lantus (24 units)"
+6053,No diabetes,,1.77,,No,,No
+6054,T1D,30.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Humulin N / Humulin R, since childhood"
+6055,No diabetes,,0.59,,No,,No
+6056,T1D Medalist,76.0000,Less than .05,,,,Not documented
+6057,No diabetes,,16.23,,No,,No
+6058,No diabetes,,9.09,,No,,No
+6059,T2D,0.2500,10.68,,"Yes, 0-5 Years","Yes, 0-5 Years",Insulin for 3 months
+6060,No diabetes,,13.63,,No,,No
+6061,T1D,23.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Lantis and Novolog
+6062,T1D,6.0000,,12.4000,"Yes, 6-10 Years","Yes, 6-10 Years","NovoLog (4-5 injections per day), Lantus (19 units per day)"
+6063,T1D,3.0000,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years","Lantus, NovoLog"
+6064,T1D,9.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years",insulin pump for 6 years
+6065,T1D Medalist,56.0000,,,,,
+6066,T1D Medalist,74.0000,Less than .05,,,,"Lantus, Humalog"
+6067,T1D,8.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Yes, injections"
+6068,T1D Medalist,69.0000,Less than .05,,,,"Insulin. Type, frequency not documented."
+6069,T1D,7.0000,,,"Yes, 6-10 Years","Yes, 6-10 Years","Yes, injections"
+6070,T1D,7.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years",Lantus
+6071,T1D,17.0000,Less than .05,7.3000,,,"Lantus, NovoLog"
+6072,No diabetes,,,,No,,
+6073,No diabetes,,0.69,,Unknown,,No
+6074,T1D Medalist,66.0000,0.21,,,,"Insulin prior to those below not documented@Solostar started in 2005@Novolog started in 2006"
+6075,No diabetes,,2.94,,No,,No
+6076,T1D,15.0000,Less than .05,8.2000,"Yes, >10 Years","Yes, >10 Years",for 14 yrs
+6077,T1D,19.0000,Less than .05,12.4000,"Yes, >10 Years","Yes, >10 Years",insulin pump for 12 yrs
+6078,T1D Medalist,52.0000,Less than .05,,,,"NPH 1957-1983, 1 x/day@Humulin and Humalog 1984-2008@Humalog and Levemir 10/2008-death"
+6079,T1D,8.0000,Less than .05,,"Yes, 6-10 Years","Yes, >10 Years",Insulin x 8 years.
+6080,Autoab Pos,,1.84,,No,,No
+6081,T1D,15.0000,0.24,,"Yes, >10 Years","Yes, >10 Years",15 years - noncompliant
+6082,Gestational diabetes,,12.27,,"Yes, 0-5 Years",No,Not mentioned in chart.
+6083,T1D,11.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Humalog
+6084,T1D,4.0000,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years",Insulin for 4 years
+6085,T1D Medalist,84.0000,Less than .05,,,,"Animal-derived insulin injections 1925-?@Current: Lantus 18 units at bedtime, Humalog on sliding scale"
+6086,T1D Medalist,63.0000,Less than .05,,,,"Aphida insulin pump 35 continuous units/day@Glucagon prn"
+6087,T1D,4.0000,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years","Humalog, Lantus"
+6088,T1D,5.0000,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years",for 5 years
+6089,T1D,8.0000,Less than .05,10.4000,"Yes, 6-10 Years","Yes, 6-10 Years",for 8 years
+6090,Autoab Pos,,5.34,,No,,No
+6091,No diabetes,,7.71,6.3000,No,,No
+6092,No diabetes,,0.35,,No,,No
+6093,T1D Medalist,57.0000,,,,,"Initially NPH only, then added regular insulin in early 1990's.@Insulin R 10u BID, Insulin 10u BID"
+6094,No diabetes,,3.55,,No,,No
+6095,No diabetes,,,5.9000,,,No
+6096,No diabetes,,2.97,,No,,No
+6097,No diabetes,,16.76,7.1000,No,,No
+6098,No diabetes,,1.41,4.9000,No,,No
+6099,No diabetes,,5.37,,No,,No
+6100,T1D Medalist,54.0000,Less than .05,,,,"Lantus, Regular Insulin, NPH, Humalog"
+6101,Autoab Pos,,26.18,,No,,No
+6102,No diabetes,,0.55,6.1000,No,,No
+6103,No diabetes,,0.98,6.1000,No,,No
+6104,No diabetes,,20.55,,No,,No
+6105,Cystic fibrosis,0.2500,0.09,6.9000,"Yes, 0-5 Years","Yes, 0-5 Years","NPH@insulin QHS"
+6106,No diabetes,,7.36,,No,,None
+6107,No diabetes,,5.9,5.2000,No,,No
+6108,T2D,2.0000,1.25,,"Yes, 0-5 Years",No,Metformin
+6109,T2D,,Less than .05,8.0000,No,,None (Not on any meds).
+6110,T2D,,0.58,,No,,Gestational diabetes but unknown treatment history. Not currently on meds.
+6111,Other-No Diabetes,,9.48,,No,,No
+6112,No diabetes,,5.11,5.6300,No,,No
+6113,T1D,1.5800,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years","injections, then insulin pump since 9/10"
+6114,T2D,2.0000,0.58,7.8000,"Yes, 0-5 Years",No,Metformin for two years non-compliant
+6115,No diabetes,,4.59,,No,,No
+6116,Autoab Pos,,1.01,,No,,None
+6117,No diabetes,,3.27,,No,,No
+6118,Other-No Diabetes,,3.15,5.7000,No,,No
+6119,T1D,14.0000,Less than .05,8.4000,"Yes, >10 Years","Yes, >10 Years","13 yrs, uses NovoLog"
+6120,No diabetes,,0.05,,,,No
+6121,T1D,4.0000,0.24,7.1000,"Yes, 0-5 Years","Yes, 0-5 Years","Humalog insulin sliding scale, Lantus 50 units daily"
+6122,No diabetes,,0.34,,No,,No
+6123,Autoab Pos,,2.01,5.4000,No,,No
+6124,T2D,3.0000,2.85,,"Yes, 0-5 Years",No,Metformin for 3 years
+6125,No diabetes,,9.22,,No,,No
+6126,No diabetes,,0.88,,No,,No
+6127,T2D,10.0000,0.08,,"Yes, 6-10 Years","Yes, 6-10 Years","Insulin pump, Novolog"
+6128,T1D,31.5000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Insulin
+6129,No diabetes,,0.51,5.2000,No,,No
+6130,No diabetes,,4.8,,No,,No
+6131,No diabetes,,1.01,,No,,No
+6132,T2D,,0.8,9.1000,No,,None
+6133,T2D,20.0000,0.84,,"Yes, >10 Years","Yes, >10 Years","NovoLog, Lantus"
+6134,No diabetes,,3.59,,No,,No
+6135,T1D,21.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",NovoLog
+6136,Cystic fibrosis,7.0000,0.79,,"Yes, 6-10 Years","Yes, 0-5 Years",Novolin
+6137,No diabetes,,12.13,,No,,None
+6138,T1D,41.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Humalog, insulin pump"
+6139,T2D,1.5000,0.6,,"Yes, 0-5 Years",No,None per chart.
+6140,No diabetes,,11.1,6.0000,No,,No
+6141,T1D,28.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","NovoLog, Lantus"
+6142,T2D,14.0000,0.19,,"Yes, >10 Years",No,Yes - noncompliant
+6143,T1D,7.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years","Lantus, Humalog"
+6144,No diabetes,,1.27,,No,,No
+6145,T1D,11.0000,0.06,,,,Injections then started pump at age 12 ie for last 6 years.
+6147,Autoab Pos,,3.19,5.2000,No,,No
+6148,T1D,7.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years",Insulin - Humalog
+6149,T2D,16.0000,11.55,,"Yes, >10 Years","Yes, >10 Years","NovoLog, Insulin,"
+6150,T1D,35.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Insulin
+6151,Autoab Pos,,5.49,,No,,No
+6152,T1D,12.0000,Less than .05,11.3000,"Yes, >10 Years","Yes, >10 Years","Lantus, Humalog."
+6153,No diabetes,,8.38,5.5000,No,,No
+6154,Autoab Pos,,Less than .05,,No,,No
+6155,T1D,43.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","regular insulin, NovoLog"
+6156,Autoab Pos,,13.34,,No,,None
+6157,T2D,1.0000,2.74,6.9000,"Yes, 0-5 Years",No,Januvia 1 year.
+6158,Autoab Pos,,0.51,5.6000,No,,No
+6159,T1D,44.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Yes
+6160,No diabetes,,0.4,5.2000,No,,No
+6161,T1D,7.0000,Less than .05,11.1000,"Yes, 6-10 Years","Yes, 6-10 Years",Pump recently. Humulin R.
+6162,No diabetes,,7.61,,No,,No
+6163,T1D,30.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Yes
+6164,No diabetes,,,5.7000,No,,No
+6165,No diabetes,,4.45,5.6000,No,,No
+6166,Monogenic Diabetes,15.0000,1.18,,"Yes, >10 Years","Yes, >10 Years",Humulin R and N
+6167,Autoab Pos,,5.43,,No,,None
+6168,No diabetes,,,6.2000,No,,
+6169,T1D,15.0000,Less than .05,9.5000,"Yes, >10 Years","Yes, >10 Years",Pump
+6170,Autoab Pos,,4.29,6.9000,No,,
+6171,Autoab Pos,,8.95,,No,,
+6172,No diabetes,,8.02,5.4000,No,,
+6173,T1D,15.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Lantus, Humalog"
+6174,No diabetes,,3,,No,,
+6175,T1D,12.0000,3.48,,"Yes, >10 Years","Yes, >10 Years","Lantus, Humalog"
+6176,Monogenic Diabetes,20.0000,,8.3000,"Yes, >10 Years","Yes, 0-5 Years",Insulin twice a day for 2 years after 18 years of oral meds.
+6177,Gestational diabetes,0.0600,14.13,,"Yes, 0-5 Years",No,Glyburide
+6178,No diabetes,,4.55,5.0000,No,,
+6179,No diabetes,,2.74,,No,,
+6180,T1D,11.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Pump
+6181,Autoab Pos,,0.06,,No,,
+6182,No diabetes,,2.28,,,,
+6183,No diabetes,,,,No,,
+6184,Autoab Pos,,3.42,,No,,
+6185,T2D,15.0000,26.42,,"Yes, >10 Years","Yes, >10 Years","Januvia 1 year, Metformin. Diabetes duration 15-20 years"
+6186,T2D,5.0000,2.98,6.3000,"Yes, 0-5 Years",No,"Januvia, Metformin (possibly for 5 yrs according to wife indicating compliance with meds)"
+6187,No diabetes,,0.72,,No,,None
+6188,T2D,,3.45,7.2000,No,,
+6189,T2D,26.0000,1.85,,"Yes, >10 Years",No,"Exenatide (5mcg injection BID), Metformin (1000mg PO daily), Glipizide (10mg PO daily), Insulin (Daily X 1 year)"
+6190,No diabetes,,5.5,5.0000,No,,
+6191,T2D,10.0000,6.14,6.0000,"Yes, 6-10 Years",No,Metformin (1g/BID)
+6192,No diabetes,,0.47,,,,
+6193,T1D,20.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Lantus, Humalog, Pump ages 14-17 and again ~I year ago."
+6194,T2D,13.0000,0.16,7.3000,"Yes, >10 Years","Yes, >10 Years",Humulin and NovoLog varying doses depending on blood glucose since diagnosis (1999). Januvia (unknown duration)
+6195,T1D,5.0000,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years",Insulin pump
+6196,T1D,15.0000,0.48,,"Yes, >10 Years","Yes, >10 Years",Insulin injection
+6197,Autoab Pos,,17.48,5.5000,No,,
+6198,T1D,3.0000,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years",70/30 insulin
+6199,T2D,20.0000,8.87,,"Yes, Duration Unkn","Yes, Duration Unkn","Januvia (undocumented length of time), Lantus, Humalog"
+6200,No diabetes,,0.2,,,,None
+6201,No diabetes,,0.19,,,,None
+6202,Cystic fibrosis,8.0000,2.1,,,,Info moved to Clinical History field (mct)
+6203,T2D,5.0000,6.24,,"Yes, 0-5 Years","Yes, 0-5 Years","Januvia (1g SID) and Metformin (300 mg BID) for 5 years; Insulin started 1 month ago: Novolog 4U TID (started 1 month ago), Lantus 44 U q 2000. Diabetes diagnosed 2007"
+6204,T1D,21.0000,Less than .05,7.2000,"Yes, >10 Years","Yes, 6-10 Years","Insulin Pump@Others ""as prescribed, most of the time did not follow diabetes regimen"""
+6205,T1D,33.0000,0.14,,"Yes, >10 Years","Yes, >10 Years","Insulin (Bovine-derived)@Lantus@Novolog"
+6206,T2D,10.0000,11.15,8.5000,"Yes, >10 Years",No,Januvia and metformin (10 years). No insulin.
+6207,T1D,10.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years",Humalog pen: 14-16 units at breakfast/lunch/dinner and 35 units Lantus at bedtime
+6208,T1D,16.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Insulin, unspecified type/dose/frequency"
+6209,T1D,0.2500,0.1,,,,"Lantus 5 units daily, Humalog 1.5 units with meals plus sliding scale."
+6210,No diabetes,,1.99,,,,None
+6211,T1D,4.0000,Less than .05,10.5000,,,"Lantus, Novolog, unknown dosage/frequency, reported by NOK"
+6212,T1D,5.0000,Less than .05,6.4000,"Yes, 0-5 Years","Yes, 0-5 Years",Insulin pump:  50-70 units Humalog daily.  Compliant per father.
+6213,Other-No Diabetes,,11.54,,No,,None
+6214,No diabetes,,0.2,,,,None
+6215,T1D,15.0000,Less than .05,8.0000,"Yes, >10 Years","Yes, >10 Years","Unknown: ""injected"" his insulin. Compliant per sister, historian for Med-Soc history."
+6216,Other-No Diabetes,,5.82,5.2000,No,,None
+6217,No diabetes,,1.31,,No,,None
+6218,No diabetes,,1.5,,No,,None
+6219,No diabetes,,1.53,,No,,None
+6220,T1D,11.0000,Less than .05,,"Yes, >10 Years","Yes, Duration Unkn",Insulin injections; unknown type/dosage/frequency
+6221,T2D,4.0000,3.05,,"Yes, 0-5 Years",No,"Glyburide, Sitagliptin, Metformin@Taken for 3-4 years@Frequency and dosage not documented"
+6222,No diabetes,,,,No,,None
+6223,T1D,52.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Insulin  injections daily type, dosage, frequency not documented)"
+6224,T1D,1.5000,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years","Humulin, Novolog 70/30@Dosage, frequency not documented"
+6225,Other-No Diabetes,,9.19,5.6000,No,,None
+6226,Pregnancy,,3.87,5.3000,No,,
+6227,No diabetes,,2.75,,No,,None
+6228,T1D,0.0000,0.1,13.3000,No,,Not on any drugs
+6229,No diabetes,,6.23,5.5000,No,,None
+6230,No diabetes,,5.22,5.3000,No,,None
+6231,T1D,20.0000,Less than .05,10.4000,"Yes, >10 Years","Yes, 6-10 Years","Novolog, Lantus.  Unknown dosage, frequency or duration.  Compliant per significant other (knew donor 8 years). Non-compliant per MD notes."
+6232,No diabetes,,19.5,,No,,None
+6233,No diabetes,,7.26,5.5000,No,,None
+6234,No diabetes,,6.89,5.8000,No,,None
+6235,No diabetes,,8.1,,No,,None
+6236,T1D,11.0000,Less than .05,11.6000,"Yes, >10 Years","Yes, >10 Years","Lantus 34 units every morning@Humalog sliding scale prn"
+6237,T1D,12.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Insulin, unknown type/dosge/frequency since January 2001"
+6238,No diabetes,,1.17,,No,,None
+6239,Gestational diabetes,,6.4,,"Yes, 0-5 Years",No,"Metformin. Dosage, frequency not reported. Taken for Polysystic Ovarian Syndrome, per NOK."
+6240,T1D,22.0000,1.28,6.1000,"Yes, >10 Years","Yes, >10 Years",Novolin
+6241,T1D,31.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Humalog. Unknown dosage, frequency."
+6242,T1D,19.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years","Insulin, Humalog. Unknown dosage, frequency. Compliant since diagnosis at age 20."
+6243,T1D,5.0000,0.42,13.1000,"Yes, 0-5 Years","Yes, 0-5 Years",Novolog. On insulin pump.
+6244,T1D,28.0000,0.05,5.9000,"Yes, >10 Years","Yes, >10 Years","Insulin, ""Daily shot for last 28 years""  per NOK. Type of insulin, dosage not documented."
+6245,T1D,7.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years","Lantus, 30 U in morning, 33 U at bedtime@Humalog, sliding scale, prn (from H & P)"
+6246,T1D,27.0000,Less than .05,13.4000,"Yes, >10 Years","Yes, >10 Years","Regular Insulin, unknown dosage  or frequency"
+6247,T1D,0.6000,0.47,,,,"Lantus, Novolog@Unknown dosage and frequency"
+6248,Gestational diabetes,,5.18,5.6000,No,,None
+6249,T2D,15.0000,4.17,,"Yes, >10 Years","Yes, >10 Years","Per family:@Oral medications and insulin@Unknown type/dosage/frequency"
+6250,No diabetes,,7.31,,No,,None
+6251,No diabetes,,1.92,5.3000,No,,None
+6252,T2D,,0.14,12.7000,"Yes, Duration Unkn",No,None
+6253,No diabetes,,7.22,,No,,None
+6254,No diabetes,,6.43,5.3000,No,,None
+6255,T2D,6.0000,2.78,,"Yes, 6-10 Years",No,"Metformin 500 mg daily@Glyburide 2.5 mg prn"
+6257,Pregnancy,,23.18,,No,,None
+6258,T1D,37.0000,Less than .05,8.0000,"Yes, >10 Years","Yes, >10 Years",Insulin by pump
+6259,T2D,10.0000,1.31,,"Yes, >10 Years",No,Janumet (Sitagliptin/Metformin) since diagnosis in 2003 (10 years)
+6261,T1D,14.1660,Less than .05,7.2000,"Yes, >10 Years","Yes, >10 Years","Novolog, Humalog"
+6262,T1D,8.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years","Novolog@Levemir"
+6263,T1D,21.0000,3.18,,"Yes, >10 Years","Yes, >10 Years",Novolog
+6264,T1D,9.0000,Less than .05,8.9000,"Yes, 6-10 Years","Yes, 6-10 Years","Humalog 16 mg@Novolog 8 mg@Lantus 16 mg"
+6265,T1D,8.0000,0.06,,"Yes, 6-10 Years","Yes, Duration Unkn",Insulin
+6266,T1D,23.0000,Less than .05,13.0000,"Yes, >10 Years","Yes, >10 Years","Insulin. Type, dosage, frequency not documented"
+6267,Autoab Pos,,16.59,5.0000,No,,None
+6268,T1D,3.0000,0.05,9.8000,"Yes, 0-5 Years","Yes, 0-5 Years",Novolog with meals and by pump
+6269,T2D,5.0000,13.91,,"Yes, 0-5 Years","Yes, 0-5 Years","Glimepiride x 5 years-compliant@Historian notes ""Insulin x 1 year"""
+6270,Gastric Bypass,,3.27,5.5000,No,,None
+6271,No diabetes,,11.47,,No,,None
+6272,T2D,10.0000,7.55,,"Yes, 6-10 Years",No,"""Insulin dependent first 5 years""@""Oral medication last 5 years""@Compliant"
+6273,T2D,2.0000,3.17,,"Yes, 0-5 Years",No,Metformin 500 mg BID
+6274,Gastric Bypass,3.0000,12.64,6.2000,,,None
+6275,T2D,2.0000,3.46,,"Yes, 0-5 Years",No,None
+6276,Other-Diabetes,,7.33,,"Yes, 6-10 Years",Unknown,"Unknown type, dosage, frequency.Non-compliant 12/15/2013-1/1/210, during vacation in Mexico"
+6277,T2D,10.0000,0.47,12.4000,"Yes, 6-10 Years","Yes, 6-10 Years","Insulin, unknown type, duration or frequency"
+6278,No diabetes,,4.54,6.3000,No,,None
+6279,No diabetes,,8.01,,No,,None
+6280,T2D,10.0000,3.71,,"Yes, 6-10 Years","Yes, 6-10 Years","Regular Insulin 30 units at HS@Novolog with meals"
+6281,T1D,20.0000,Less than .05,7.6000,"Yes, >10 Years","Yes, >10 Years","Humalog, Lantus"
+6282,No diabetes,,6.83,,No,,None
+6283,T2D,17.0000,1.77,9.6000,"Yes, >10 Years","Yes, >10 Years","Liraglutide, Linagliptin, Insulin Detemir@Compliant with meds"
+6284,Other-Diabetes,3.0000,1.7,11.9000,"Yes, 0-5 Years","Yes, 0-5 Years",Lantus
+6285,T1D,15.0000,Less than .05,,,,Insulin
+6286,Transplant,40.0000,1.76,,"Yes, >10 Years","Yes, >10 Years",Insulin age 11 until pancreas transplant in 2011
+6287,Other-No Diabetes,,4.75,,No,,None
+6288,No diabetes,,12.96,,No,,None
+6289,No diabetes,,8.05,,No,,None
+6290,No diabetes,,7.46,,No,,None
+6291,Transplant,31.0000,12.47,,"Yes, >10 Years","Yes, >10 Years",None
+6292,No diabetes,,3.76,,No,,None
+6293,No diabetes,,2.22,,No,,None
+6294,No diabetes,,,,No,,None
+6295,No diabetes,,10.91,5.3000,No,,None
+6296,T1D,12.0000,Less than .05,5.6000,"Yes, >10 Years","Yes, Duration Unkn",Insulin
+6297,T2D,3.0000,3.23,,"Yes, 0-5 Years","Yes, 0-5 Years","Oral meds and insulin, unsure medication name, dose for ~ 3 yrs."
+6298,T1D,26.0000,Less than .05,13.3000,"Yes, >10 years","Yes, >10 years",Insulin
+6299,T1D,23.0000,Less than .05,,"Yes, >10 Years","Yes, >10 Years",Insulin
+6300,T2D,10.0000,3.19,6.5000,"Yes, >10 Years","Yes, 0-5 Years","Lantus, per family only when blood sugar above 180."
+6301,Autoab Pos,,3.92,5.5000,No,,None
+6302,T1D,32.5000,0.17,8.2000,"Yes, >10 Years","Yes, >10 Years",Lantus
+6303,Autoab Pos,,3.03,5.4000,No,,None
+6304,T2D,25.0000,2.34,,"Yes, >10 Years","Yes, >10 Years",Insulin
+6305,No diabetes,,6.18,,No,,None
+6306,T1D,5.0000,Less than .02,10.1000,"Yes, 0-5 Years","Yes, 0-5 Years","Novolog, Lantus"
+6307,T1D,10.0000,Less than .05,,"Yes, 6-10 Years","Yes, 6-10 Years",Insulin pump
+6308,T2D,1.0000,5.2,,"Yes, 0-5 Years",No,Metformin
+6309,No diabetes,,18.08,,No,,None
+6310,Autoab Pos,,10.54,,No,,None
+6311,No diabetes,,,,No,,None
+6312,Transplant,26.0000,0.04,9.7000,"Yes, >10 Years","Yes, Duration Unkn",Insulin
+6313,No diabetes,,1.13,,No,,None
+6314,Autoab Pos,,1.49,,No,,None
+6315,No diabetes,,5.88,,No,,None
+6316,No diabetes,,4.58,,No,,None
+6317,No diabetes,,7.15,,No,,None
+6318,No diabetes,,3.89,5.2000,No,,None
+6319,T1D,25.0000,Less than .02,8.6000,"Yes, >10 Years",,Insulin
+6320,Monogenic Diabetes,3.0000,0.02,10.4000,"Yes, 0-5 Years","Yes, 0-5 Years",Insulin Pump
+6321,T1D,16.0000,Less than .02,8.1000,"Yes, >10 Years",,Humulog
+6322,T1D,17.0000,Less than .02,,"Yes, >10 Years",,Insulin
+6323,T1D,6.0000,Less than .02,6.6000,"Yes, 6-10 years",,"Novolog, Insulin Pump"
+6324,T1D,2.0000,Less than .02,10.2000,"Yes, 0-5 Years",,"Insulin, Lantus & humalog"
+6325,T1D,6.0000,0.14,,"Yes, 6-10 years",,Insulin
+6326,Other-Diabetes,3.0000,2.24,5.0000,"Yes, 0-5 Years",,"Lantus, Januvia, Glyburide"
+6327,T1D,57.0000,Less than .02,,"Yes, >10 Years",,Insulin
+6328,T1D,20.0000,Less than .02,8.7000,"Yes, >10 Years",,Insulin
+6329,T2D,25.0000,7.46,11.2000,"Yes, >10 Years",,Insulin
+6330,T1D,18.0000,Less than .02,,"Yes, >10 Years","Yes, >10 years",Novolog
+6331,No diabetes,,3.01,5.4000,No,,None
+6332,Transplant,16.0000,0.03,3.9000,"Yes, >10 years",,None since transplant-unknown before.
+6333,No diabetes,,9.37,4.7000,No,,None
+6334,No diabetes,,1.98,5.6000,No,,None
+6335,No diabetes,,8.85,5.3000,No,,None
+6336,No diabetes,,7.87,5.2000,No,,None
+6337,T1D,5.0000,Less than .02,12.5000,"Yes, 0-5 Years","Yes, 0-5 Years",Insulin
+6338,No diabetes,,5.01,5.5000,No,,None
+6339,No diabetes,,10.56,5.3000,No,,None
+6340,No diabetes,,3.88,5.5000,No,,None
+6341,T1D,15.0000,Less than .02,13.6000,"Yes, >10 years","Yes, >10 years",Insulin pump for 15 years
+6342,T1D,2.0000,0.26,9.2000,"Yes, 0-5 years","Yes, 0-5 years",Insulin
+6343,No diabetes,,2.18,5.0000,No,,None
+6344,No diabetes,,1.16,5.7000,No,,None
+6345,Other-Diabetes,0.5800,0.29,8.6000,"Yes, 0-5 years","Yes, 0-5 years",Insulin
+6346,No diabetes,,,,No,,None
+6347,Autoab Pos,,3.26,,No,,None
+6348,No diabetes,,0.19,,No,,None
+6349,No diabetes,,2.98,2.5000,No,,None
+6350,No diabetes,,2.21,5.0000,No,,None
+6351,No diabetes,,2,,No,,None
+6353,No diabetes,,1.76,5.4000,No,,None
+6354,No diabetes,,2.25,5.5000,No,,None
+6355,Other-Diabetes,0.2500,2.42,5.8000,"Yes, 0-5 years",No,"Insulin (IV) for 10 days.  Levemir 4 units daily subQ and Humalog sliding scale for at least 1 month, possibly until brain death."
+6356,No diabetes,,1.65,5.3000,No,,None
+6357,No diabetes,,8.82,,No,,None
+6358,No diabetes,,8,5.4000,No,,None
+6359,No diabetes,,4.4,,No,,None
+6360,T1D,2.5000,Less than .02,10.2000,"Yes, 0-5 Years","Yes, 0-5 Years","Humalog, Lantus"
+6361,Other-No Diabetes,,0.67,,No,,None
+6362,T1D,0.0000,0.38,10.0000,No,,Insulin IV drip on admission
+6363,Pregnancy,,1.47,5.5000,No,,None
+6364,No diabetes,,3.3,,No,,None
+6365,No diabetes,,7.39,6.4000,No,,None
+6366,No diabetes,,0.41,6.3000,No,,None
+6367,T1D,2.0000,0.39,8.8000,"Yes, 0-5 years","Yes, 0-5 years","Novalog, Lantus"
+6368,No diabetes,,3.05,5.2000,No,,None
+6369,No diabetes,,6.42,5.1000,No,,None
+6370,No diabetes,,9.64,5.0000,No,,None
+6371,T1D,2.0000,0.11,9.5000,"Yes, 0-5 years","Yes, 0-5 years","Novolog, Lantus"
+6372,No diabetes,,10.98,5.9000,No,,None
+6373,Other-No Diabetes,,13.12,6.8000,No,,None
+6374,No diabetes,,13.42,6.1000,No,,None
+6375,No diabetes,,17.32,5.7000,No,,None
+6376,No diabetes,,5.18,5.5000,No,,None
+6377,No diabetes,,1.5,5.5000,No,,None
+6378,Other-Diabetes,1.0000,8.31,9.5000,"Yes, 0-5 years","Yes, 0-5 years",Insulin
+6379,Other-No Diabetes,,12.07,5.5000,No,,None
+6380,T1D,0.0000,0.22,13.5000,"Yes, 0-5 years",No,None
+6381,No diabetes,,5.6,5.4000,No,,None
+6382,No diabetes,,5.21,5.3000,No,,None
+6383,Pregnancy,,7.26,4.9000,No,,None
+6384,No diabetes,,0.7,4.8000,No,,None
+6385,No diabetes,,1.55,5.3000,No,,None
+6386,No diabetes,,1.12,5.6000,No,,None
+6387,No diabetes,,4.8,5.3000,No,,None
+6388,Autoab Pos,,1.38,5.7000,No,,None
+6389,No diabetes,,7.22,5.1000,No,,None
+6390,No diabetes,,28.47,5.5000,No,,None
+6391,No diabetes,,4.23,5.3000,No,,None
+6392,No diabetes,,9.63,5.7000,No,,None
+6393,No diabetes,,8.3,5.6000,No,,None
+6394,No diabetes,,2.66,6.0000,No,,None
+6395,Other-No Diabetes,,20.88,5.6000,"Yes, 0-5 years",No,None
+6396,T1D,2.0000,0.06,13.4000,"Yes, 0-5 years","Yes, 0-5 years","Humalog & Lantus.  Insulin glargine 36 units subq once per evening, insulin regular 1 unit per 8 g carbs plus 1 unit per 25/100 blood sugar subq with meals."
+6397,Autoab Pos,,12.77,6.0000,No,,None
+6398,Cystic fibrosis,2.0000,0.02,6.8000,"Yes, 0-5 years",No,"Oral medication, unknown type"
+6399,T1D,0.0000,1.41,10.4000,No,,None
+6400,Autoab Pos,,4.17,5.5000,No,,None
+6401,No diabetes,,12.81,5.8000,No,,None
+6402,No diabetes,,,,No,,None
+6403,Transplant,52.8000,16.04,,"Yes, > 10 years",Unknown,Unknown
+6404,Cystic fibrosis,5.0000,2.37,6.4000,"Yes, 0-5 years","Yes, 0-5 years","Insulin, injected"
+6405,T1D,0.6000,1.84,7.0000,"Yes, 0-5 years","Yes, 0-5 years",Insulin
+6406,No diabetes,,4.07,5.1000,No,,None
+6407,No diabetes,,5.35,5.5000,No,,None
+6408,Other-No Diabetes,,0.06,,No,,None
+6409,No diabetes,,3.52,5.0000,No,,None
+6410,Other-No Diabetes,,4.85,,No,,None
+6411,Other-No Diabetes,,4.65,5.3000,No,,None
+6412,No diabetes,,45.57,6.1000,No,,None
+6413,No diabetes,,5.27,5.6000,No,,None
+6414,T1D,0.4300,0.16,14.0000,"Yes, 0-5 years","Yes, 0-5 years",Lantus and Novolog
+6415,No diabetes,,3.55,5.9000,No,,None
+6416,No diabetes,,15.33,5.4000,No,,None
+6417,No diabetes,,3.94,5.1000,No,,None
+6418,T1D,11.0000,Less than .02,7.5000,"Yes, >10 years","Yes, > 10 years","Insulin, injections and pump"
+6419,Transplant,38.0000,0.08,7.7000,"Yes, >10 years","Yes, >10 years",Insulin pump
+6420,No diabetes,,1.27,5.2000,No,,None
+6421,Autoab Pos,,1.84,5.6000,No,,None
+6422,T1D,21.0000,Less than .02,7.1000,"Yes, > 10 years","Yes, > 10 years",Insulin
+6423,Pending,,18.85,6.3000,No,,None
+6424,Autoab Pos,,6.97,5.8000,No,,None
+6425,No diabetes,,8.06,6.0000,No,,None
+6426,No diabetes,,12.25,5.0000,No,,None
+6427,No diabetes,,2.9,6.0000,No,,None
+6428,No diabetes,,12.59,5.8000,"Yes, 0-5 years",No,None
+6429,Autoab Pos,,2.25,5.5000,No,,None
+6430,No diabetes,,11.12,5.8000,No,,None
+6431,No diabetes,,1.32,5.4000,No,,None
+6432,T1D,13.0000,Less than .02,7.9000,"Yes, >10 years","Yes, >10 years","Humalog, insulin pump"
+6433,Autoab Pos,,4.44,5.3000,No,,None
+6434,No diabetes,,31.11,5.6000,No,,None
+6435,T1D,14.7500,0.09,11.6000,"Yes, >10 years","Yes, >10 years","Insulin injections, long- and short-acting, Tresiba"
+6436,T1D,3.0000,Less than .02,9.0000,"Yes, < 5 years","Yes, < 5 years",Insulin via pump
+6437,Autoab Pos,,6.23,5.7000,No,,None
+6438,T1D,10.0000,Less than .02,10.5000,"Yes, > 10 years","Yes, > 10 years","Insulin, was initially given oral medication"
+6439,No diabetes,,5.33,4.7000,No,,None
+6440,No diabetes,,4.45,5.0000,No,,None
+6441,T1D,5.0000,Less than .02,14.0000,"Yes, 5-10 years","Yes, 5-10 years","Lantus 30-40 units in the evening, Humalog 8 units with meals"
+6442,No diabetes,,5.91,5.1000,No,,None
+6443,T1D,9.0000,Less than .02,7.7000,"Yes, 5-10 years","Yes, 5-10 years","Insulin via pump (for 3 weeks prior to admission), previously Lantus/Basaglar"
+6444,No diabetes,,6.5,5.4000,No,,None
+6445,No diabetes,,12.11,5.6000,No,,None
+6446,No diabetes,,0.61,,No,,
+6447,No diabetes,,4.61,5.1000,No,,None
+6448,No diabetes,,1.04,5.5000,No,,None
+6449,T1D,2.0000,0.03,10.2000,"Yes, <5 years","Yes, <5 years","Levomere, Novalog, Glucerna"
+6450,Autoab Pos,,5.47,5.7000,No,No,None
+6451,Transplant,22.0000,2.95,7.0000,"Yes, > 10 years","Yes, > 10 years",Insulin
+6452,Cystic fibrosis,,11.16,5.3000,No,,None
+6453,No diabetes,,2.68,5.1000,No,,None
+6454,No diabetes,,4.57,4.7000,No,,None
+6455,No diabetes,,8.71,5.3000,No,,None
+6456,T1D,0.0000,10.33,6.8000,No,,None
+6457,T1D,3.0000,Less than .02,9.9000,"Yes, 0-5 years",Yes,"Novolog, Lantis"
+6458,T1D,6.0000,0.02,14.2000,"Yes, 5-10 years",Yes,"Humalog, Basaglar KwikPen"
+6459,T1D,10.0000,Less than .02,9.8000,"Yes, >10 years",Yes,"Insulin, sliding scale"
+6460,No diabetes,,1,3.9000,No,No,None
+6461,No diabetes,,5.26,5.5000,No,No,None
+6462,No diabetes,,11.09,5.5000,No,No,None
+6463,T1D,4.0000,Less than .02,9.3000,"Yes, 0-5 years",Yes,Insulin
+6464,Transplant,30.0000,Less than .02,8.8000,"Yes, >10 years",Yes,Insulin
+6465,No diabetes,,3.42,5.2000,No,No,None
+6466,T1D,6.0000,Less than .02,14.0000,"Yes, 5-10 years",Yes,Insulin
+6467,No diabetes,,10.82,5.1000,No,No,None
+6468,No diabetes,,5.27,4.4000,No,No,None
+6469,T1D,1.5000,0.66,7.4000,"Yes, 0-5 years",Yes,"Lantus, Humulin, Metformin (stopped 3 months before admission due to complications)"
+6470,No diabetes,,6.03,5.5000,No,No,None
+6471,No diabetes,,1.99,5.5000,No,No,None
+6472,T1D,4.0000,0.02,9.7000,"Yes, 0-5 years",Yes,Insulin pump
+6473,T1D,6.0000,Less than .02,12.8000,"Yes, 5-10 years",Yes,"Lantus, Glucagon"
+6474,No diabetes,,5.88,5.3000,No,No,None
+6475,Transplant,18.0000,6.12,5.2000,"Yes, >10 years","Yes, >10 years",Insulin
+6476,No diabetes,,6.95,6.3000,"Yes, 0-5 years",No,None
+6477,T1D,8.0000,0.18,10.9000,"Yes, 5-10 years","Yes, 5-10 years","Lantus 44 units/day (x6 years), Humalog (x8 years), Insulin aspart/ degludec"
+6478,Other-No Diabetes,,1.55,6.1000,No,No,None
+6479,No diabetes,,1.74,5.0000,No,No,None
+6480,T1D,2.5000,0.13,10.2000,"Yes, 0-5 years","Yes, 0-5 years",Insulin pump
+6481,No diabetes,,10.89,5.4000,No,No,None
+6482,No diabetes,,7.47,5.3000,No,No,None
+6483,Autoab Pos,,2.21,5.5000,No,No,None
+6484,T1D,10.0000,Less than 0.02,10.6000,"Yes, 5-10 years","Yes, 5-10 years",Insulin (non-compliant)
+6485,T1D,7.0000,Less than 0.02,9.7000,"Yes, 5-10 years","Yes, 5-10 years","Lantus 1x/day, Humalog at mealtime"
+6486,No diabetes,,9.82,5.8000,No,No,None
+6487,Pending,,5.52,5.3000,No,No,None
+6488,Pending,,8.67,5.6000,No,No,None
+6489,Pending,32.0000,14.27,6.2000,"Yes, >10 years","Yes, >10 years",None
+6490,Pending,1.0000,0.97,5.0000,"Yes, 0-5 years","Yes, 0-5 years","Lantus 100 unit/mL 15 units/day, Novolog 100 unit/mL 25 units/day"
+6491,Pending,,1.6,7.8000,No,No,None
+6492,Pending,,2.13,6.2000,No,No,None
+6493,Pending,,7.08,5.2000,No,No,None
+6494,Pending,,5.83,4.9000,No,No,None
+6495,,,7.94,,,,
+6496,Pending,,1.48,5.7000,No,No,None
+6497,Pending,,1.16,6.8000,No,No,None
+6498,Pending,,3.94,5.5000,No,No,None
+6499,,,,,,,
+69,T1D,3.0000,Less than .05,,"Yes, 0-5 Years","Yes, 0-5 Years","Insulin 3 yrs, Levemir & Humulin"
+8003,No diabetes,,,,No,,
+9977,,,,,,,
+A6001,,,,,,,
+HPAP-001,,,0.43,,,,
+HPAP-002,,,0.51,,,,
+HPAP-003,,,9,,,,
+HPAP-004,,,6.73,,,,
+HPAP-005,,,5.14,,,,
+HPAP-006,,,6.58,,,,
+HPAP-008,,,27.05,,,,
+HPAP-009,,,0.69,,,,
+HPAP-010,,,5.27,,,,
+HPAP-011,,,1.56,,,,
+HPAP-012,,,4.1,,,,
+HPAP-013,,,4.66,,,,
+HPAP-014,,,6.05,,,,
+HPAP-015,,,0.03,,,,
+HPAP-016,,,4.49,,,,
+HPAP-017,,,3.71,,,,
+HPAP-018,,,6.4,,,,
+HPAP-019,,,8.82,,,,
+HPAP-020,,,0.37,,,,
+HPAP-021,,,Less than .02,,,,
+HPAP-022,,,9.35,,,,
+HPAP-023,,,Less than .02,,,,
+HPAP-024,,,5.6,,,,
+HPAP-025,,,0.23,,,,
+HPAP-026,,,0.25,,,,
+HPAP-027,,,7.06,,,,
+HPAP-028,,,,,,,
+HPAP-029,,,3.83,,,,
+HPAP-030,Pending,5.0000,0.09,12.5000,"Yes, 5-10 years",Yes,"Humalog, Lantus"
+HPAP-031,T1D,18.0000,Less than .02,6.8000,"Yes, > 10 years","Yes, > 10 years","Insulin Lantis (x10 yrs), Novolog (x18 yrs)"
+HPAP-032,,,Less than .02,,,,
+HPAP-033,,,0.27,,,,
+HPAP-034,,,12.7,,,,
+HPAP-035,,,15.9,,,,
+HPAP-036,,,1.12,,,,
+HPAP-037,,,4.75,,,,
+HPAP-038,,,8.29,,,,
+HPAP-039,,,1.88,,,,
+HPAP-040,,,7.01,,,,
+HPAP-041,,,Less than .02,,,,
+HPAP-042,,,2.72,,,,
+HPAP-043,,,3.19,,,,
